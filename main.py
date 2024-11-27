@@ -36,7 +36,7 @@ while True:
 	print("_______________________")
 
 	direction = input("Next position (w,a,s,d): ")
-	if direction == "fim":
+	if direction == "exit":
 		os.system('clear')
 		break
 	move (direction)
