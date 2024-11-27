@@ -13,4 +13,4 @@ d:
 
 ![image](https://github.com/user-attachments/assets/e5df419c-2e5e-4bf3-b592-dc64ca2699c8)
 
-3- If u want to end the program just typu 'exit'
+3- If u want to end the program just type 'exit'
